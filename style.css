@@ -408,7 +408,7 @@ footer p, a{
         font-size: 12px;
     }
     .First_page {
-        max-width: 470px;
+        max-width: 375px;
         width: 100%;
         display: flex;
         margin-inline: auto;
