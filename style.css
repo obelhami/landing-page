@@ -945,7 +945,7 @@ footer p, a{
     }
 }
 
-@media (max-width: 720px) and (min-width: 160px) /*for smartwatch */
+@media (max-width: 300px) and (min-width: 160px) /*for smartwatch */
 {
     .logo
     {
